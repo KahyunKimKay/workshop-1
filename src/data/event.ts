@@ -5,8 +5,8 @@ export const event = {
   title: "Git & GitHub Workshop",
   tagline: "Branches, PRs, rebasing, and CI/CD — the way real teams work",
   // Update this to the repo attendees will push to.
-  repo: "https://github.com/jaxonpoentis/workshop1",
+  repo: "https://github.com/jaximus808/workshop-1",
   slides:
     "https://docs.google.com/presentation/d/1GwZ_TKpffcRWKuL8gIVS_qWgej8ZWw8V0fJoCsILcz0/edit",
-  organizers: ["jaxonpoentis"],
+  organizers: ["jaximus808"],
 };
