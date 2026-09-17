@@ -228,7 +228,7 @@ export default function Home() {
       <footer className="border-t border-border py-6 text-center text-xs text-muted">
         Built during the {event.chapter} {event.title}. Every profile on this
         page is a merged pull request.{" "}
-        <Link href="/p/jaxonpoentis" className="hover:text-accent hover:underline">
+        <Link href="/p/jaximus808" className="hover:text-accent hover:underline">
           Organizer
         </Link>
       </footer>
